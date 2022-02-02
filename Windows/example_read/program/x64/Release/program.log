@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (program.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Generating code
+  0 of 8 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+easy_dynamixel.lib(easy_dynamixel.obj) : warning LNK4099: PDB 'easy_dynamixel.pdb' was not found with 'easy_dynamixel.lib(easy_dynamixel.obj)' or at 'C:\Users\whitn\Desktop\dynamixel\example_read\x64\Release\easy_dynamixel.pdb'; linking object as if no debug info
+  program.vcxproj -> C:\Users\whitn\Desktop\dynamixel\example_read\x64\Release\read.exe
